@@ -1,0 +1,1 @@
+Questa repository è stata creata per sviluppare una pagina html, integrata alla logica typescript, per la creazione di un convertitore tra unità di misura diverse. 
